@@ -108,9 +108,9 @@ An offline AI system that extracts and ranks relevant sections from PDFs based o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=2D96F7&icon_color=2D96F7&text_color=c9d1d9&bg_color=0d1117" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lodh-ankush&show_icons=true&theme=github_dark&hide_border=true&title_color=2D96F7&icon_color=2D96F7&text_color=c9d1d9&bg_color=0d1117" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=2D96F7&text_color=c9d1d9&bg_color=0d1117" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodh-ankush&layout=compact&theme=github_dark&hide_border=true&title_color=2D96F7&text_color=c9d1d9&bg_color=0d1117" height="160"/>
 
 </div>
 
@@ -120,7 +120,7 @@ An offline AI system that extracts and ranks relevant sections from PDFs based o
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-lodh-289073341/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushlodh441@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 
